@@ -1,7 +1,7 @@
 {
-  "name": "iotz-util-observable",
+  "name": "@iotz/util-observable",
   "version": "1.0.0",
-  "description": "",
+  "description": "IOTZ util Observable for objects and functions",
   "main": "dist/observable.js",
   "scripts": {
     "build": "rollup -c",
@@ -19,5 +19,13 @@
   },
   "presets": [
     "env"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iot-z/util-observable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iot-z/util-observable/issues"
+  },
+  "homepage": "https://github.com/iot-z/util-observable#readme"
 }
